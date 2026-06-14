@@ -1,0 +1,6 @@
+{
+  "name": "AH SHOP",
+  "description": "A premium, feature-rich offline-first e-commerce shopping experience with cloud Firestore synchronization for user progress (cart, favorites, orders, and profile), custom catalog filtering, interactive cart, favorites, and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

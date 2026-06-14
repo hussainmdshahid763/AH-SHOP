@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Elegant shopping bag handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 40,46 C 40,30 68,30 68,46" />
+        
+    <!-- Sleek Shopping Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,46 L 76,46 L 82,86 L 26,86 Z" />
+        
+    <!-- Inner contrast pocket design and AH initials -->
+    <path
+        android:fillColor="#1E2E5D"
+        android:pathData="M 36,50 L 72,50 L 76,82 L 32,82 Z" />
+        
+    <!-- Golden logo accent inside bag pocket -->
+    <path
+        android:strokeColor="#D49E35"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 46,74 L 46,58 M 62,74 L 62,58 M 46,66 L 62,66" />
+        
+</vector>
